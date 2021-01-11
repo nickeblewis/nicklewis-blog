@@ -4,7 +4,7 @@ import { DateTime } from 'luxon'
 
 // The place where new shared notes should go
 const API_FILE_TARGET =
-    'https://api.github.com/repos/maxboeck/mxb/contents/src/notes/'
+    'https://api.github.com/repos/nickeblewis/mxb/contents/src/notes/'
 
 // Helper function to clean strings for frontmatter
 const sanitize = (str) => {

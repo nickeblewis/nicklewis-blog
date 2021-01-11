@@ -6,7 +6,7 @@ import { decode } from 'html-entities'
 dotenv.config()
 
 // URL of notes JSON feed
-const NOTES_URL = 'https://mxb.dev/notes.json'
+const NOTES_URL = 'https://nifty-beaver-6dfa06.netlify.app/notes.json'
 
 // Configure Twitter API Client
 const twitter = new Twitter({
