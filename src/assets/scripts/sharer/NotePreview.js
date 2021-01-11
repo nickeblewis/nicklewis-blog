@@ -62,7 +62,7 @@ export default class NotePreview extends Component {
                             className="note__author__photo"
                             src={assetUrls.avatar}
                         />
-                        <strong className="note__author__name">Max Böck</strong>
+                        <strong className="note__author__name">Nick Lewis</strong>
                     </span>
                 </p>
                 <time className="note__date">{dateString}</time>
