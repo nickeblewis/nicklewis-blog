@@ -4,7 +4,7 @@ import DOMPurify from 'dompurify'
 import App from './App'
 
 const API_ORIGIN = 'https://webmention.io/api/mentions.jf2'
-const BASE_URL = 'https://mxb.dev'
+const BASE_URL = 'https://nicklewis.blog'
 
 const webmentionsElement = document.getElementById('webmentions')
 const replaceElement = webmentionsElement.querySelector('[data-render-root]')

@@ -1,8 +1,8 @@
-# mxb.dev
+# nicklewis.blog
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57999461-2350-4da3-8788-ca4e0e6dcb30/deploy-status)](https://app.netlify.com/sites/mxb/deploys)
 
-Source code for [mxb.dev](https://mxb.dev), my personal website, built with [Eleventy](https://www.11ty.io).
+Source code for [nicklewis.blog](https://nicklewis.blog), my personal website, built with [Eleventy](https://www.11ty.io).
 
 ## Features
 
