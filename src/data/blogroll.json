@@ -1,24 +1,24 @@
 [
     {
-        "title": "Manuel Matuzović",
-        "url": "https://www.matuzo.at",
-        "feed": "https://www.matuzo.at/feed.xml",
-        "description": "Manuel is a developer, consultant, speaker and friend from Vienna who specializes in HTML, CSS and accessibility.",
-        "twitter": "mmatuzo"
+        "title": "Alexander Kunz",
+        "url": "https://www.alex-kunz.com/",
+        "feed": "https://www.alex-kunz.com/feed",
+        "description": "Alex is a photographer originally from Germany now based in San Diego, CA.",
+        "twitter": "alexskunz"
     },
     {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net",
-        "feed": "https://www.sonniesedge.net/rss/posts.xml",
-        "description": "Charlie is a front-end developer and speaker based in Berlin. She is best known for her work with Springer Nature and offending tech-bros on twitter.",
-        "twitter": "sonniesedge"
+        "title": "Johann Briffa",
+        "url": "https://jabriffa.wordpress.com",
+        "feed": "https://jabriffa.wordpress.com/feed",
+        "description": "photography, computing, scientific research, and other ramblings by Johann.",
+        "twitter": "jabriffa"
     },
     {
-        "title": "Matthias Ott",
-        "url": "https://matthiasott.com",
-        "feed": " https://matthiasott.com/articles/rss",
-        "description": "Matthias is an UI designer and engineer based in Stuttgart. He teaches prototyping and writes about Front-End, Design and the IndieWeb.",
-        "twitter": "m_ott"
+        "title": "Wes Bos",
+        "url": "https://wesbos.com",
+        "feed": " https://wesbos.com",
+        "description": "Wes Bos teaches web development and is one half of the brilliant Syntax Podcast.",
+        "twitter": "wesbos"
     },
     {
         "title": "Ethan Marcotte",

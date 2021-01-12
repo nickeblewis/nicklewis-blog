@@ -1,0 +1,53 @@
+---
+layout: base
+tags: nav
+title: About Me
+eleventyNavigation:
+  key: About
+  order: 4
+permalink: /about/
+---
+<div class="page page--about">
+    <header class="page__header">
+        <h1 class="page__title">About me.</h1>
+    </header>
+    <div class="page__content page__content--fullwidth">
+
+        <div class="about">
+            <div class="about__header">
+                <div class="about__photo">
+                    <img
+                        class="responsive-image js-responsive-image"
+                        src="{{ '/assets/images/nick-lewis-800.jpg' | url }}"
+                        srcset="{{ '/assets/images/nick-lewis-800.jpg' | url }} 800w, 
+                        {{ '/assets/images/nick-lewis-1600.jpg' | url }} 1600w"
+                        sizes="(min-width: 940px) 40vw, 100vw"
+                        alt="NIck Lewis"
+                    />
+                </div>
+                <div class="about__intro lead">
+                    <p>I’m Nick Lewis, a front-end web developer and photographer based in Farnborough, England.</p>
+                    <p>
+                        I've been developing stuff on the web for the last 18 years, working with clients 
+                        across the UK and industries.
+                    </p>
+                    <p>My aim is to build Jamstack solutions for clients. When not in my office, you can find me on the South Coast photographing things!</p>
+                </div>
+            </div>
+            <div class="about__content markdown">
+                <h2>Work</h2>
+                <p>
+                    I work a lot with digital agencies across the country
+                    dedicated to creating innovative digital products.
+                </p>
+            
+                <h2>Writing</h2>
+                <p>
+                    I like writing about web development, design and photography on my blog. My articles have been featured in magazines over the years.
+                </p>
+                
+            </div>
+        </div>
+
+    </div>
+</div>
