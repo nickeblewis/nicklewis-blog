@@ -1,8 +1,8 @@
 ---
 title: The first post of 2021
 tags: iphone, photography
-image: cover.jpg
-description: "Let users customize your website with their favorite color scheme! Your site has a dark mode? That's cute. Mine has ten different themes now, and they're all named after Mario Kart race tracks."
+image: 331990a0-06c1-4d0c-bf4a-164b218e8946_1_201_a.jpg
+description: "I like to start something new each year..."
 featured: true
 featuredImage: colors.jpg
 featuredImageColor: "#77309A"
@@ -10,7 +10,7 @@ featuredImageColor: "#77309A"
 
 ![Railway](da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpg "Farnborough Main Station at night")
 
-I like to start something new each year and in this case the domain nicklewis.blog was registered today for the sole purpose of having a place to just write without many constraints being in place. Nice. I like this. I have chosen 11ty for the task because I wanted to move away a little bit from sweating over which framework to use. 2020 exhausted me enough and I just want to explore how 11ty can help provide a nicer development experience.
+<p class="lead">I like to start something new each year and in this case the domain nicklewis.blog was registered today for the sole purpose of having a place to just write without many constraints being in place. Nice. I like this. I have chosen 11ty for the task because I wanted to move away a little bit from sweating over which framework to use. 2020 exhausted me enough and I just want to explore how 11ty can help provide a nicer development experience.</p>
 
 ![](331990a0-06c1-4d0c-bf4a-164b218e8946_1_201_a.jpg)
 
