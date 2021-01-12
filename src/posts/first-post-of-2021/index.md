@@ -1,7 +1,7 @@
 ---
 title: The first post of 2021
 tags: iphone, photography
-image: cover.jpg
+image: da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpg
 description: "I like to start something new each year..."
 featured: true
 featuredImage: colors.jpg
