@@ -248,5 +248,19 @@
         "feed": "https://tatianamac.com/feed/feed.xml",
         "description": "Tatiana is an American designer who builds inclusive, accessible, and ethical products with thoughtful practices. She's a wonderful speaker on the topic of ethics in technology, which is increasingly important.",
         "twitter": "TatianaTMac"
+    },
+    {
+        "title": "Jeremiah Chechik",
+        "url": "https://chechik.com/",
+        "feed": "https://chechik.com/",
+        "description": "Canadian Film Director and photographer who now resides in sunny California.",
+        "twitter": "tinroof"
+    },
+    {
+        "title": "The Future of Photography",
+        "url": "https://thefutureofphotography.com/",
+        "feed": "https://thefutureofphotography.com/",
+        "description": "Weekly photography podcast that concentrates on photography technology and related topics.",
+        "twitter": "tinroof"
     }
 ]
