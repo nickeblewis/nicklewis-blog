@@ -97,6 +97,47 @@ module.exports = {
             .map(clean)
     },
 
+    webmentionsLikedByUrl: function (webmentions, url) {
+        const allowedTypes = ['like-of']
+        const allowedHTML = {
+            allowedTags: ['b', 'i', 'em', 'strong', 'a'],
+            allowedAttributes: {
+                a: ['href']
+            }
+        }
+
+        // const orderByDate = (a, b) =>
+        //     new Date(a.published) - new Date(b.published)
+
+        const checkRequiredFields = (entry) => {
+            const { author } = entry
+            
+            return !!author && !!author.name 
+        }
+
+        // const clean = (entry) => {
+        //     const { html, text } = entry.content
+
+        //     if (html) {
+        //         // really long html mentions, usually newsletters or compilations
+        //         entry.content.value =
+        //             html.length > 2000
+        //                 ? `mentioned this in <a href="${entry['wm-source']}">${entry['wm-source']}</a>`
+        //                 : sanitizeHTML(html, allowedHTML)
+        //     } else {
+        //         entry.content.value = sanitizeHTML(text, allowedHTML)
+        //     }
+
+        //     return entry
+        // }
+
+        return webmentions
+            .filter((entry) => entry['wm-target'] === url)
+            .filter((entry) => allowedTypes.includes(entry['wm-property']))
+            .filter(checkRequiredFields)
+            
+    },
+
     webmentionCountByType: function (webmentions, url, ...types) {
         const isUrlMatch = (entry) =>
             entry['wm-target'] === url ||

@@ -1,0 +1,50 @@
+{%- set likes = webmentions.children | webmentionsLikedByUrl(webmentionUrl) -%}
+<div
+    class="webmentions" 
+    id="webmentions"
+    data-url="{{ webmentionUrl }}"
+    data-last-fetched="{{ webmentions.lastFetched }}"
+>
+<div
+    <div data-render-root>
+        {% if likes|length %}
+
+            <div class="webmentions__preview">
+                <ol class="webmentions__list">
+                {% for like in likes | slice(0, 5) %}
+                  
+
+
+
+ <a 
+                class="webmention__item"
+                {% if like.url %}href="{{ like.url }}"{% endif %} 
+                target="_blank" 
+                rel="noopener noreferrer"
+            >
+                {% if like.author.photo %}
+                    <img
+                        class="webmention__author__photo u-photo" 
+                        src="{{ like.author.photo }}" 
+                        alt="" 
+                        width="48"
+                        height="48"
+                        loading="lazy"
+                    >
+                {% else %}
+                    <img class="webmention__author__photo" src="{{ '/assets/images/avatar-default.jpg' | url }}" alt="" width="48" height="48">
+                {% endif %}
+               
+            </a>
+
+
+
+                {% endfor %}
+                </ol>
+            </div>
+
+        {% else %}
+            <p class="webmentions__empty">No likes yet.</p>
+        {% endif %}
+    </div>
+</div>
