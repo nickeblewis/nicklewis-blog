@@ -4,7 +4,7 @@ tags: mayflower, history, collecting
 image: mayflower-coin-4.jpg
 description: "400 years ago a ship full of Saints and Strangers set sail for the shores of America to find a new way in a new world. "
 featured: true
-featuredImage: mayflower-coin-4.jpg
+featuredImage: http://localhost:8080/blog/mayflower-coin/mayflower-coin-1.jpg
 featuredImageColor: "#77309A"
 ---
 

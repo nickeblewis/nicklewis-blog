@@ -4,7 +4,7 @@ tags: iphone, photography
 image: IMG_2839.jpg
 description: "I like to start something new each year..."
 featured: true
-featuredImage: colors.jpg
+featuredImage: http://localhost:8080/blog/first-post-of-2021/da40d4fe-15af-4169-b682-88f86c492576_1_201_a.jpg
 featuredImageColor: "#77309A"
 ---
 
