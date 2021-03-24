@@ -43,7 +43,10 @@ module.exports = function (config) {
     config.addShortcode('icon', shortcodes.icon)
     config.addPairedShortcode('signup', shortcodes.signup)
     config.addPairedShortcode('callout', shortcodes.callout)
-
+    config.cloudinaryCloudName = 'dqpknoetx'
+    config.addShortcode('cloudinaryImage', function (path, transforms, alt) {
+      return `<img src="https://res.cloudinary.com/${config.cloudinaryCloudName}/${transforms}/${path}" alt="${alt}">`
+    })
     // Asset Watch Targets
     config.addWatchTarget('./src/assets')
 
