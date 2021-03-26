@@ -2,8 +2,9 @@
 title: The two Maltese Fishermen
 tags: malta, black and white, travel, street
 description: "Photos from the archives"
-featured: true
-featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/v1404943402/qnvkg2e55jrlco9gkskr.jpg"
+featured: true.
+image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1404943402/maltese-fishermen.jpg"
+featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/v1404943402/maltese-fishermen.jpg"
 featuredImageColor: "#77309A"
 ---
 
