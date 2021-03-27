@@ -19,48 +19,23 @@ Consecrated on 5th October 1843, the Norman transitional-style parish church of 
     "All Saints Church, Dogmersfield"
 %}
 
-It is a light airy church inside 
+> It is a light airy church inside but since I use auto ISO, this exposure was 8000, ideal for handheld photos of course! The stained glass window at the end was overexposed, so I needed to use some brushes in Lightroom to select an area I could drop the exposure on. Worked a treat!
 
 {% 
   cloudinaryImage
     "v1616856586/churches/hampshire/_DSC8984.jpg",
-    "f_auto",
+    "f_auto,c_scale,h_640",
     "All Saints Church, Dogmersfield"
 %}
 
 {% 
   cloudinaryImage
     "v1616856585/churches/hampshire/_DSC8989.jpg",
-    "f_auto",
+    "f_auto,c_scale,h_640",
     "All Saints Church, Dogmersfield"
 %}
 
-{% 
-  cloudinaryImage
-    "v1616856584/churches/hampshire/_DSC8983.jpg",
-    "f_auto",
-    "All Saints Church, Dogmersfield"
-%}
-
-{% 
-  cloudinaryImage
-    "v1616856582/churches/hampshire/_DSC8982.jpg",
-    "f_auto",
-    "All Saints Church, Dogmersfield"
-%}
-
-
-
-
-The first known church in Dogmersfield – “the field by the lake where the water lilies grow” – is mentioned in the Doomsday Book, 1086, and was therefore most probably of Saxon origin. A later church with ‘narrow lancet windows’ of Norman construction survived until 1801. This church was situated close to Dogmersfield House, at that time a palace of the Bishops of Bath and Wells, and was used as the Bishops’ chapel and later as a family church by the Lords of the Manor of Dogmersfield.
-
-The first Rector of the parish was Walter de Henleie, c. 1200. A board is displayed in the church listing the Rectors up to the time when the last permanent incumbent, Reverend K. S. Bradley, retired from office.
-
-Among the owners of Dogmersfield Park were the Bishops of Bath and Wells, who held the parish for over 400 years – Bishop Jocelyn died there in 1191 – Ralph Flambard when Bishop of Durham, Henry I, Henry VIII, Edward VI and the three Wriothsleys, Earls of Southampton. The second Earl built a new mansion in 1728 to replace the original Bishops’ palace.
-
-Notable visitors to the parish included Henry VI, who stayed here whilst hunting at Crondall, Henry VII and his son Prince Arthur who met the latter’s bride, Katharine of Aragon, on her arrival from Spain in November 1501, William IV when Prince of Wales and Prime Minister Canning. Gifts sent to Dogmersfield include wine from King John and deer from Edward I.
-
-East Window
+## East Window
 
 The East window was originally erected in 1950 to the memory of Helena, Lady Mildmay and replaced the original given by Charles Dyson. The west window was moved in 2006 to the North nave above the organ with a generous bequest from Mrs. Olivia Hoare. An additional inscription was added to commemorate Michael Rollo Hoare, MFH who previously owned the Dower House and was PCC Treasurer and a great benefactor to All Saints’ Church.
 
@@ -72,7 +47,31 @@ Sir Henry Paulet St John-Mildmay, who took the name of Mildmay on his marriage t
 
 In 1836, Jane, Lady Mildmay, then a widow, appointed Charles Dyson as Rector, and from this time the convenience of the estate workers was considered. The final cottages were cleared from the Park, particularly Dairy Hill and the Blacksmith’s Shop which was set up at Forge Cottage; roads were built and repaired – Chatter Alley gets its name at this time from the People’s Charter – a school was started in the New Rectory by Mary Ann Dyson and finally, in 1843, in the new church.
 
-Organ
+{% 
+  cloudinaryImage
+    "v1616856584/churches/hampshire/_DSC8983.jpg",
+    "f_auto",
+    "All Saints Church, Dogmersfield"
+%}
+
+The first known church in Dogmersfield – “the field by the lake where the water lilies grow” – is mentioned in the Doomsday Book, 1086, and was therefore most probably of Saxon origin. A later church with ‘narrow lancet windows’ of Norman construction survived until 1801. This church was situated close to Dogmersfield House, at that time a palace of the Bishops of Bath and Wells, and was used as the Bishops’ chapel and later as a family church by the Lords of the Manor of Dogmersfield.
+
+The first Rector of the parish was Walter de Henleie, c. 1200. A board is displayed in the church listing the Rectors up to the time when the last permanent incumbent, Reverend K. S. Bradley, retired from office.
+
+Among the owners of Dogmersfield Park were the Bishops of Bath and Wells, who held the parish for over 400 years – Bishop Jocelyn died there in 1191 – Ralph Flambard when Bishop of Durham, Henry I, Henry VIII, Edward VI and the three Wriothsleys, Earls of Southampton. The second Earl built a new mansion in 1728 to replace the original Bishops’ palace.
+
+Notable visitors to the parish included Henry VI, who stayed here whilst hunting at Crondall, Henry VII and his son Prince Arthur who met the latter’s bride, Katharine of Aragon, on her arrival from Spain in November 1501, William IV when Prince of Wales and Prime Minister Canning. Gifts sent to Dogmersfield include wine from King John and deer from Edward I.
+
+{% 
+  cloudinaryImage
+    "v1616856582/churches/hampshire/_DSC8982.jpg",
+    "f_auto",
+    "All Saints Church, Dogmersfield"
+%}
+
+
+
+## Organ
 
 Another Rector, Malcolm Farmer, who also gave the reredos, gave the first organ in 1908 and, in 1914, the Parish Room. Another organ was built and installed in 1994 with some pipes coming from a dismantled instrument at St John’s Church in Hartley Wintney. It was removed in July 2012 to a small church in Poland and a new Allen Q285D organ installed in its place.
 
