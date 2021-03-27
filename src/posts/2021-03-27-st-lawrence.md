@@ -1,5 +1,5 @@
 ---
-title: Weston Patrick
+title: St Lawrence, Weston Patrick
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616856582/churches/hampshire/_DSC8972.jpg"
 tags: churches, hampshire, hartley wespall
 description: "St Lawrence Church"
