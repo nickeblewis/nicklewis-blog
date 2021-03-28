@@ -2,7 +2,7 @@
 title: Hartley Wespall
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616854393/churches/hampshire/_DSC8959.jpg"
 tags: churches, hampshire
-description: "Finchampstead"
+description: "A beautiful church in the middle of Hampshire countryside"
 featured: true
 featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616854393/churches/hampshire/_DSC8959.jpg"
 featuredImageColor: "#77309A"
