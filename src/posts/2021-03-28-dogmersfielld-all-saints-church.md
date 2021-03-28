@@ -2,7 +2,7 @@
 title: All Saints, Dogmersfield
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616856582/churches/hampshire/_DSC8982.jpg"
 tags: churches, hampshire
-description: "All Saints Church"
+description: "A gorgeous church on the Dogmersfield estate and the first I had been inside in a long time"
 featured: true
 featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616856582/churches/hampshire/_DSC8982.jpg"
 featuredImageColor: "#77309A"
