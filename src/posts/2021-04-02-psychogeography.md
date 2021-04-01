@@ -1,0 +1,2 @@
+- The great people who do this
+- How I am going to explore this movement within my own writing and photography
