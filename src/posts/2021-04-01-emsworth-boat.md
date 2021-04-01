@@ -15,7 +15,7 @@ featuredImageColor: "#77309A"
     "The two Maltese Fishermen"
 %}
 
-At last we were able to head to our nearest stretch of coast this evening and with the fading evening light, I had just enough time to take one photo! However I was very pleased with this result. In terms of editing workflow, I took the following steps:
+At last we were able to head to our nearest stretch of coast this evening and with the fading evening light, I had just enough time to take one photo! However I was very pleased with this result. In terms of editing workflow, I took the following steps;
 
 - Imported the image from my Sony A7R3 straignt onto my iPad using the USB-C dongle
 - Stored straight to the Photos app and therefore iCloud
@@ -24,3 +24,4 @@ At last we were able to head to our nearest stretch of coast this evening and wi
 - Exported as a hires JPEG image to iCloud and then onto Cloudinary
 - Grabbed the URL to create this blog post
 - That's that!
+
