@@ -11,7 +11,7 @@ featuredImageColor: "#77309A"
 {% 
   cloudinaryImage
     "v1404943402/maltese-fishermen.jpg",
-    "f_auto",
+    "f_auto,c_scale,w_1200",
     "The two Maltese Fishermen"
 %}
 
