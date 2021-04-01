@@ -2,10 +2,10 @@
 title: Emsworth Boat
 tags: hampshire,art photography
 description: "Taking photos of what I found along the coast"
-featured: true.
+featured: true
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1617312331/emsworth-boat-2_hsnjl2.jpg"
 featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/v1617312331/emsworth-boat-2_hsnjl2.jpg"
-featuredImageColor: "#77309A",
+featuredImageColor: "#77309A"
 ---
 
 {% 

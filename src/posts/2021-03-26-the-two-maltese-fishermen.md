@@ -5,7 +5,7 @@ description: "Photos from the archives"
 featured: true.
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1404943402/maltese-fishermen.jpg"
 featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/v1404943402/maltese-fishermen.jpg"
-featuredImageColor: "#77309A"
+featuredImageColor: "#77309A",
 ---
 
 {% 
