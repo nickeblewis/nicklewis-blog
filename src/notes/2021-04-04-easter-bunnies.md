@@ -4,10 +4,9 @@ date: "2021-04-04T22:22"
 syndicate: true
 image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617565897/EASTER-BUNNY.jpg"
 ---
+Today we felt like getting out and enjoying the nice weather, so started off with a stroll around Farnborough. Someone had put up some giant inflatable Easter bunnies!
 
 ![](https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617565897/EASTER-BUNNY.jpg)
-
-Today we felt like getting out and enjoying the nice weather, so started off with a stroll around Farnborough. Someone had put up some giant inflatable Easter bunnies!
 
 ![](https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617565893/57238862-7362-4603-BAD7-6C39D11B3100_qycrj3.jpg)
 
