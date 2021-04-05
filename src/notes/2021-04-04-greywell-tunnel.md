@@ -4,6 +4,10 @@ title: "Basingstoke Canal - Discovering the lost canal section"
 syndicate: false
 tags: ['exploring','history']
 ---
+It's fascinating what you learn as you begin digging deep into the history of a place. Clearly there are some places I have just got to go in search of. 
+
+I know the area of the canal from Odiham Castle up to the Greywell Tunnel very well indeed. I've known it since I was a teenager. The section I've never visited though has been what lies to the west of it.
+
 ![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
 - [Wikipedia and the Greywell Tunnel](https://en.wikipedia.org/wiki/Greywell_Tunnel)
