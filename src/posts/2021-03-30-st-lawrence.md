@@ -28,6 +28,8 @@ featuredImageColor: "#77309A"
     "St Lawrence Church"
 %}
 
+Could this be Sir Thomas Henry Wyatt? Sir Thomas was the architect who re-built the church in the 1800s. 
+
 {% 
   cloudinaryImage
     "v1616856583/churches/hampshire/_DSC8979.jpg",
