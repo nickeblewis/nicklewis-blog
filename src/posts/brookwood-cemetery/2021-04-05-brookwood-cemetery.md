@@ -10,3 +10,5 @@ tags: surrey, history
 ![](_DSC9003.jpg)
 
 ![](_DSC9001.jpg)
+
+![](nausoleum.jpg)
