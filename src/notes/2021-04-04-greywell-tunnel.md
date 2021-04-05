@@ -41,7 +41,11 @@ tags: ['exploring','history']
 	- Matt their local guide
 	- Steep cutting embankment
 	- Looking for small bridge
-	- Brook (Brick) Kiln bridge with its two different parapets
+	- [Brick Kiln bridge](https://www.hants.gov.uk/thingstodo/countryparks/basingstokecanal/explore/brickkilnbridge) with its two different parapets. 
+		- [Historic England](https://historicengland.org.uk/listing/the-list/list-entry/1092940)
+		- [The Knaphillian](https://theknaphillian.co.uk/history-three/) - the history of the brick kilns that made most of the building materials for the construction of the canal bridges and locks
+		- [Basingstoke and Deane](https://www.basingstoke.gov.uk/content/page/64346/Basingstoke%20Canal%20CAA.pdf)
+		- 
 	- Basingstoke canal logbook, what's that?
 	- Up Nateley nature reserve, there is another secton of the canal I think?
 
