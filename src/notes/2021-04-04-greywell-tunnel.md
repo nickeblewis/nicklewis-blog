@@ -12,6 +12,8 @@ I shall share this piece of info as a note all of its own [circular walks](https
 
 ![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
+https://basingstoke-canal.org.uk/bcs/web-archive/publications/other-bcs-publications/
+
 - [Wikipedia and the Greywell Tunnel](https://en.wikipedia.org/wiki/Greywell_Tunnel)
 
 - [Bat conservation trust](http://batconservationtrust.blogspot.com/2018/03/bats-in-greywell-tunnel-hampshire.html?m=1)
