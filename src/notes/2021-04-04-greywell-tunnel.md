@@ -4,7 +4,7 @@ title: "Basingstoke Canal - Discovering the lost canal section"
 syndicate: false
 tags: ['exploring','history']
 ---
-![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617620782/5741CDF8-F45D-4F17-907B-C043168DF0D1_adppbn.jpg)
+![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
 - [Wikipedia and the Greywell Tunnel](https://en.wikipedia.org/wiki/Greywell_Tunnel)
 
