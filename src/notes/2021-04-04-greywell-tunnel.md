@@ -11,6 +11,15 @@ tags: ['exploring','history']
 - [Bat conservation trust](http://batconservationtrust.blogspot.com/2018/03/bats-in-greywell-tunnel-hampshire.html?m=1)
 
 - [The last five miles](https://basingstoke-canal.org.uk/about/the-canal/the-last-5-miles/)
+	- There has for a long time been an ambition to restore the last 5 miles but as you can imagine this would now be close to impossible
+	- Tunnel can't be restored, due to it's SSI status
+	- 300 meter section collapsed
+	- Basingstoke Wharf is now (amongst many things) Festival Place 
+	- [Plans to establish a footpath](https://www.basingstoke.gov.uk/content/doclib/42.pdf) and cycleway that follows closely the old route taken by the canal
+	- Take a look at the London Canals website, as they may still have information on on the last 5 miles, a pictorial guide
+	- [National Library of Scotland](http://maps.nls.uk/geo/explore/#zoom=16&lat=51.2633&lon=-0.9964&layers=171)
+	- [Canal Ring](https://basingstoke-canal.org.uk/bcs/wp-content/uploads/2013/04/Hants-and-Berks-Canal-Map.jpg)
+	- [Kennet and Avon Link](https://basingstoke-canal.org.uk/bcs/wp-content/uploads/2013/04/Berks-Hants-Canal.jpg)
 
 - [Subterranean Britain](https://www.subbrit.org.uk/sites/greywell-tunnel-basingstoke-canal/)
 - [Little Tunnel Bridge](https://www.subbrit.org.uk/sites/little-tunnel-basingstoke-canal/)
