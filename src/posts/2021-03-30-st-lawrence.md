@@ -7,19 +7,12 @@ featured: true
 featuredImage: "https://res.cloudinary.com/dqpknoetx/image/upload/c_crop,h_675,w_1200/v1616856582/churches/hampshire/_DSC8972.jpg"
 featuredImageColor: "#77309A"
 ---
-
 {% 
   cloudinaryImage
     "v1616856582/churches/hampshire/_DSC8972.jpg",
     "f_auto",
     "St Lawrence Church"
 %}
-
-UPDATE: We went back a week later and at sunset...
-
-![](_DSC9059-edited.jpg)
-
-Makes all of the difference!
 
 {% 
   cloudinaryImage
@@ -28,14 +21,14 @@ Makes all of the difference!
     "St Lawrence Church"
 %}
 
-Could this be Sir Thomas Henry Wyatt? Sir Thomas was the architect who re-built the church in the 1800s. 
-
 {% 
   cloudinaryImage
     "v1616856585/churches/hampshire/_DSC8975.jpg",
     "f_auto",
     "St Lawrence Church"
 %}
+
+Could this be Sir Thomas Henry Wyatt? Sir Thomas was the architect who re-built the church in the 1800s. 
 
 {% 
   cloudinaryImage
