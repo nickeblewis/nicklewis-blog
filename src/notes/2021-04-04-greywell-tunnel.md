@@ -8,6 +8,8 @@ It's fascinating what you learn as you begin digging deep into the history of a 
 
 I know the area of the canal from Odiham Castle up to the Greywell Tunnel very well indeed. I've known it since I was a teenager. The section I've never visited though has been what lies to the west of it.
 
+I shall share this piece of info as a note all of its own [circular walks](https://www.basingstoke-canal.org.uk/bcs/wp-content/uploads/2013/04/Circular-Rambles-on-the-Basingstoke-Canal.pdf)
+
 ![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
 - [Wikipedia and the Greywell Tunnel](https://en.wikipedia.org/wiki/Greywell_Tunnel)
