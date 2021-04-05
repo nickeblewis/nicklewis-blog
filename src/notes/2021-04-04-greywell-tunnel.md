@@ -17,10 +17,13 @@ tags: ['exploring','history']
 
 - [Greywell Tunnel Photos](https://www.flickr.com/photos/johnspooner/5782255998)
 
-- [Youtube](https://m.youtube.com/watch?v=09Yz1pruGHc)
+- [Youtube - The Bald Explorer](https://m.youtube.com/watch?v=09Yz1pruGHc)
+	- Whitewater River runs underneath canal, not through or into it
 
-- [Youtube](https://m.youtube.com/watch?v=V2nmizr9JHU)
+- [Youtube - Paul and Rebecca Whitewick](https://m.youtube.com/watch?v=V2nmizr9JHU)
+	- The other tunnel portal
 
-- [Youtube](https://m.youtube.com/watch?v=R01kAJ0CRAk)
+- [Youtube - Adrian Oates](https://m.youtube.com/watch?v=R01kAJ0CRAk)
+ - A very nice watch!
 
 Can we find the opposite portal into the tunnel at Greywell and evidence of the part long defunct?
