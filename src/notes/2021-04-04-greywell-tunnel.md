@@ -10,7 +10,7 @@ I know the area of the canal from Odiham Castle up to the Greywell Tunnel very w
 
 This looks useful, a set of circular walks along the entire canal but the one that interests me most of all is [Greywell Hill Park](https://www.basingstoke-canal.org.uk/bcs/wp-content/uploads/2013/04/Circular-Rambles-on-the-Basingstoke-Canal.pdf) which incorporates various interesting spots.
 
-https://osmaps.ordnancesurvey.co.uk/osmaps/route/3140679/2-mile-route-arounf-up-nately-canal-route
+[OS Maps 2 mile route around Up Nately and the canal](https://osmaps.ordnancesurvey.co.uk/osmaps/route/3140679/2-mile-route-arounf-up-nately-canal-route)
 
 ![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
