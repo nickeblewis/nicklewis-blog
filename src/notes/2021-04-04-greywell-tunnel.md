@@ -22,7 +22,9 @@ tags: ['exploring','history']
 	- [Kennet and Avon Link](https://basingstoke-canal.org.uk/bcs/wp-content/uploads/2013/04/Berks-Hants-Canal.jpg)
 
 - [Subterranean Britain](https://www.subbrit.org.uk/sites/greywell-tunnel-basingstoke-canal/)
+
 - [Little Tunnel Bridge](https://www.subbrit.org.uk/sites/little-tunnel-basingstoke-canal/)
+	- The last boat to travel all the way to Basingstoke Wharf was thought to be February 1914 which had taken 4 months to ship its cargo of sand from Ash Vale. It had become very hard to navigate.
 
 - [Historic England](https://historicengland.org.uk/listing/the-list/list-entry/1339863)
 
