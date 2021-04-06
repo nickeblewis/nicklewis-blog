@@ -12,6 +12,12 @@ This looks useful, a set of circular walks along the entire canal but the one th
 
 [OS Maps 2 mile route around Up Nately and the canal](https://osmaps.ordnancesurvey.co.uk/osmaps/route/3140679/2-mile-route-arounf-up-nately-canal-route)
 
+## What3words
+
+///drilled.unscathed.farm
+
+I like this name because we are looking for a tunnel and it cuts underneath farmland and thus on the surface it remains unscathed!!
+
 ![Map of canal area](https://res.cloudinary.com/dqpknoetx/image/upload/v1617621065/84062606-2656-4C77-835F-D3A75E9D5C86_esqodi.jpg)
 
 [Archive library](https://basingstoke-canal.org.uk/bcs/web-archive/publications/other-bcs-publications/)
