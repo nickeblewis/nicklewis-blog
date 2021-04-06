@@ -12,4 +12,4 @@ A lovely walk this evening around Old Basing but a very brief one as the weather
 
 ## What3words
 
-///admire.courier.stand
+[///admire.courier.stand](https://w3w.co/admire.courier.stand)
