@@ -13,4 +13,4 @@ A lovely walk this evening around Old Basing but a very brief one as the weather
 
 ![](https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617745477/churches/hampshire/Old%20Basing/_DSC9064.jpg)
 
-![](/v1617825583/DJI_0090_tl7zdr.jpg)
+![](https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617825583/DJI_0090_tl7zdr.jpg)
