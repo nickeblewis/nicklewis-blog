@@ -2,12 +2,26 @@
 label: Notes
 hide_body: false
 fields:
-- type: file
-  name: image
-  label: image
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: datetime
   name: date
   label: date
 - type: boolean
   name: syndicate
   label: syndicate
+- type: file
+  name: image
+  label: image
+- name: what3words
+  type: text
+  config:
+    required: false
+  label: What3Words
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
