@@ -40,7 +40,7 @@
             {% if note.url %}
                 <p class="webmentions__empty">No webmentions yet, be the first and <a href="https://twitter.com/intent/tweet/?text=Nick%20wrote%20this%20item%20about&url={{ noteUrl }}&via=nicklewis">tweet about this article</a></p>
             {% else %}
-                <p class="webmentions__empty">No webmentions yet, be the first and <a href="https://twitter.com/intent/tweet/?text=Nick%20wrote%20this%20item%20about&url={{ absoluteUrl(page.url) }}&via=nicklewis">tweet about this article</a></p>
+                <p class="webmentions__empty">No webmentions yet, be the first and <a href="https://twitter.com/intent/tweet/?text=Nick%20wrote%20this%20item%20about&url={{ page.url }}&via=nicklewis">tweet about this article</a></p>
             {% endif %}
         {% endif %}
     </div>
