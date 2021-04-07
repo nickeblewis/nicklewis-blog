@@ -6,6 +6,7 @@ syndicate: true
 tags:
 - exploring
 - history
+- Churches
 image: https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1617745477/churches/hampshire/Old%20Basing/_DSC9064.jpg
 
 ---
