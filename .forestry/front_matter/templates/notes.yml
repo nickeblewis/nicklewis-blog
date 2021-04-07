@@ -1,0 +1,13 @@
+---
+label: Notes
+hide_body: false
+fields:
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: syndicate
+  label: syndicate
