@@ -27,5 +27,6 @@ fields:
   label: Tags
 pages:
 - src/notes/forestry.md
+- src/notes/natural-abstract.md
 - src/notes/the-colquhoun-family-mausoleum.md
 - src/notes/the-floating-digger.md
