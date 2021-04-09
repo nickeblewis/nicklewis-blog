@@ -1,9 +1,12 @@
 ---
-title: "The research list for my Churches project"
-date: "2021-04-05T08:29"
-tags: ['churches','projects']
+title: The research list for my Churches project
+date: 2021-04-09T07:29:00Z
+tags:
+- churches
+- projects
 syndicate: true
-image: "https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1616773339/_DSC8943_xih0oi.jpg"
+image: https://res.cloudinary.com/dqpknoetx/image/upload/c_scale,w_1200/v1616773339/_DSC8943_xih0oi.jpg
+
 ---
 Churches have always been a fascination and how they have become part of the British landscape. Stand on a hillside that overlooks the tapestry of fields, farms, villages and you'll always see a church spire that punctuates that view.
 
@@ -12,3 +15,7 @@ I am starting small (ahem). If I were to photograph every church in the United K
 If you have a favourite near you, I would sure like to know about it.
 
 [Google places](https://www.google.com/maps/placelists/list/Y_MFzGg0RJ-pyoVCBzqErA)
+
+## Other links
+
+[https://www.listchallenges.com/countryfile-britains-most-beautiful-churches](https://www.listchallenges.com/countryfile-britains-most-beautiful-churches "https://www.listchallenges.com/countryfile-britains-most-beautiful-churches")
