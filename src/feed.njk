@@ -11,11 +11,11 @@ eleventyExcludeFromCollections: true
     <author>
         <name>{{ author.name }}</name>
     </author>
-    {% if collections.posts %}
-    <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+    {% if collections.notes %}
+    <updated>{{ collections.notes | rssLastUpdatedDate }}</updated>
     {% endif %}
     <id>{{ site.url }}/</id>
-    {%- for post in collections.posts | reverse -%}
+    {%- for post in collections.notes | reverse -%}
     {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(site.url) }}{% endset %}
         <entry>
             <title>{{ post.data.title }}</title>
