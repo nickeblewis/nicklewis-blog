@@ -21,12 +21,17 @@ permalink: /
     </div>
 </div>
 
-{% if collections.featured.length %}
+    <div class="page__content">
+        {%- set postlist = collections.posts -%}
+        {% include "postlist.njk" %}
+    </div>
+
+{# {% if collections.featured.length %}
 <div class="u-mb4">
     <h2>Featured Posts</h2>
     {% include "featuredposts.njk" %}
 </div>
-{% endif %}
+{% endif %} #}
 
 {# 
 <div class="u-mb4">
