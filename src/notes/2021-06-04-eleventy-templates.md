@@ -9,3 +9,9 @@ Starting a new list, one that gathers together some handy eleventy templates fro
 
 Do you have any favourites you'd like to share?
 
+Some other useful links:
+
+- https://www.filamentgroup.com/lab/build-a-blog/
+- https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/
+- https://daily-dev-tips.com/
+
