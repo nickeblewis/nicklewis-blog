@@ -9,4 +9,4 @@ image: "Tuba-man-shakespeare.jpg"
 what3words: ''
 
 ---
-![Tuba-man-shakespeare.jpg]
+![](Tuba-man-shakespeare.jpg)
